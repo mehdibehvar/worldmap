@@ -1,8 +1,8 @@
 import React from 'react'
-export default function Summary() {
+export default function Summary({content}) {
   return (
-    <p>
-    summary
-</p>
+    <div>
+      <p className='fs-4'>{content}</p>
+  </div>
   )
 }

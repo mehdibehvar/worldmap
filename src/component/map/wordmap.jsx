@@ -4,12 +4,15 @@ import MapImage from '../../assets/image/world-map.gif';
 import Coords from './coords.json'
 export default function WordMap({changeCountry}) {
   return (
-<ImageMapper 
+   <>
+   <ImageMapper 
 onClick={e=>changeCountry(e.name)}
 src={MapImage}
  map={Coords}
  width={950}
  imgWidth={1200}
  />
+   </>
+
   )
 }

@@ -2,7 +2,7 @@
    "name":"world-map",
    "areas":[
       {
-         "name":"Greenland",
+         "name":"گرینلند",
          "shape":"poly",
          "coords":[
             "314",
@@ -16,7 +16,7 @@
          ]
       },
       {
-         "name":"Canada",
+         "name":" کانادا",
          "shape":"poly",
          "coords":[
             "307",
@@ -38,7 +38,7 @@
          ]
       },
       {
-         "name":"Alaska",
+         "name":" آلاسکا",
          "shape":"rect",
          "coords":[
             "4",
@@ -48,7 +48,7 @@
          ]
       },
       {
-         "name":"Hawaii",
+         "name":" هاوایی",
          "shape":"rect",
          "coords":[
             "12",
@@ -58,7 +58,7 @@
          ]
       },
       {
-         "name":"United States",
+         "name":" ایالات متحده",
          "shape":"poly",
          "coords":[
             "140",
@@ -74,7 +74,7 @@
          ]
       },
       {
-         "name":"Mexico",
+         "name":" مکزیک",
          "shape":"poly",
          "coords":[
             "157",
@@ -88,7 +88,7 @@
          ]
       },
       {
-         "name":"Caribbean",
+         "name":" کارائیب",
          "shape":"poly",
          "coords":[
             "271",
@@ -102,7 +102,7 @@
          ]
       },
       {
-         "name":"Central America",
+         "name":" آمریکای مرکزی",
          "shape":"poly",
          "coords":[
             "217",
@@ -116,7 +116,7 @@
          ]
       },
       {
-         "name":"Colombia",
+         "name":" کلمبیا",
          "shape":"poly",
          "coords":[
             "313",
@@ -130,7 +130,7 @@
          ]
       },
       {
-         "name":"Venezuela",
+         "name":" ونزوئلا",
          "shape":"poly",
          "coords":[
             "318",
@@ -144,7 +144,7 @@
          ]
       },
       {
-         "name":"French Guiana",
+         "name":" گویان فرانسه",
          "shape":"poly",
          "coords":[
             "381",
@@ -158,7 +158,7 @@
          ]
       },
       {
-         "name":"Suriname",
+         "name":" سورینام",
          "shape":"poly",
          "coords":[
             "370",
@@ -176,7 +176,7 @@
          ]
       },
       {
-         "name":"Guyana",
+         "name":" گویان",
          "shape":"poly",
          "coords":[
             "360",
@@ -194,7 +194,7 @@
          ]
       },
       {
-         "name":"Ecuador",
+         "name":" اکوادور",
          "shape":"poly",
          "coords":[
             "240",
@@ -210,7 +210,7 @@
          ]
       },
       {
-         "name":"Peru",
+         "name":" پرو",
          "shape":"poly",
          "coords":[
             "293",
@@ -226,7 +226,7 @@
          ]
       },
       {
-         "name":"Bolivia",
+         "name":" بولیوی",
          "shape":"poly",
          "coords":[
             "337",
@@ -240,7 +240,7 @@
          ]
       },
       {
-         "name":"Paraguay",
+         "name":" پاراگوئه",
          "shape":"poly",
          "coords":[
             "350",
@@ -254,7 +254,7 @@
          ]
       },
       {
-         "name":"Brazil",
+         "name":" برزیل",
          "shape":"poly",
          "coords":[
             "376",
@@ -272,7 +272,7 @@
          ]
       },
       {
-         "name":"Chile",
+         "name":" شیلی",
          "shape":"poly",
          "coords":[
             "329",
@@ -286,7 +286,7 @@
          ]
       },
       {
-         "name":"Argentina",
+         "name":" آرژانتین",
          "shape":"poly",
          "coords":[
             "338",
@@ -300,7 +300,7 @@
          ]
       },
       {
-         "name":"Uruguay",
+         "name":" اروگوئه",
          "shape":"poly",
          "coords":[
             "371",
@@ -314,7 +314,7 @@
          ]
       },
       {
-         "name":"Iceland",
+         "name":" ایسلند",
          "shape":"rect",
          "coords":[
             "475",
@@ -324,7 +324,7 @@
          ]
       },
       {
-         "name":"Ireland",
+         "name":" ایرلند",
          "shape":"rect",
          "coords":[
             "489",
@@ -334,7 +334,7 @@
          ]
       },
       {
-         "name":"Portugal",
+         "name":" پرتغال",
          "shape":"rect",
          "coords":[
             "487",
@@ -344,7 +344,7 @@
          ]
       },
       {
-         "name":"United Kingdom",
+         "name":" بریتانیا",
          "shape":"poly",
          "coords":[
             "500",
@@ -360,7 +360,7 @@
          ]
       },
       {
-         "name":"Norway",
+         "name":" نروژ",
          "shape":"poly",
          "coords":[
             "589",
@@ -378,7 +378,7 @@
          ]
       },
       {
-         "name":"Finland",
+         "name":" فنلاند",
          "shape":"poly",
          "coords":[
             "641",
@@ -392,7 +392,7 @@
          ]
       },
       {
-         "name":"Sweden",
+         "name":" سوئد",
          "shape":"poly",
          "coords":[
             "617",
@@ -406,7 +406,7 @@
          ]
       },
       {
-         "name":"Estonia",
+         "name":" استونی",
          "shape":"poly",
          "coords":[
             "633",
@@ -420,7 +420,7 @@
          ]
       },
       {
-         "name":"Latvia",
+         "name":" لتونی",
          "shape":"rect",
          "coords":[
             "628",
@@ -430,7 +430,7 @@
          ]
       },
       {
-         "name":"Lithuania",
+         "name":" لیتوانی",
          "shape":"poly",
          "coords":[
             "627",
@@ -444,7 +444,7 @@
          ]
       },
       {
-         "name":"Belarus",
+         "name":" بلاروس",
          "shape":"rect",
          "coords":[
             "640",
@@ -454,7 +454,7 @@
          ]
       },
       {
-         "name":"Denmark",
+         "name":" دانمارک",
          "shape":"poly",
          "coords":[
             "564",
@@ -468,7 +468,7 @@
          ]
       },
       {
-         "name":"Belgium",
+         "name":" بلژیک",
          "shape":"poly",
          "coords":[
             "562",
@@ -482,7 +482,7 @@
          ]
       },
       {
-         "name":"Netherlands",
+         "name":" هلند",
          "shape":"rect",
          "coords":[
             "562",
@@ -492,7 +492,7 @@
          ]
       },
       {
-         "name":"Poland",
+         "name":" لهستان",
          "shape":"poly",
          "coords":[
             "610",
@@ -506,7 +506,7 @@
          ]
       },
       {
-         "name":"Germany",
+         "name":" آلمان",
          "shape":"poly",
          "coords":[
             "586",
@@ -520,7 +520,7 @@
          ]
       },
       {
-         "name":"France",
+         "name":" فرانسه",
          "shape":"poly",
          "coords":[
             "547",
@@ -536,7 +536,7 @@
          ]
       },
       {
-         "name":"Spain",
+         "name":" اسپانیا",
          "shape":"poly",
          "coords":[
             "540",
@@ -550,7 +550,7 @@
          ]
       },
       {
-         "name":"Czech Republic",
+         "name":" جمهوری چک",
          "shape":"poly",
          "coords":[
             "607",
@@ -562,7 +562,7 @@
          ]
       },
       {
-         "name":"Italy",
+         "name":" ایتالیا",
          "shape":"poly",
          "coords":[
             "585",
@@ -576,7 +576,7 @@
          ]
       },
       {
-         "name":"Ukraine",
+         "name":" اوکراین",
          "shape":"rect",
          "coords":[
             "639",
@@ -586,7 +586,7 @@
          ]
       },
       {
-         "name":"Europe",
+         "name":" اروپا",
          "shape":"poly",
          "coords":[
             "595",
@@ -600,7 +600,7 @@
          ]
       },
       {
-         "name":"Moldova",
+         "name":" مولداوی",
          "shape":"poly",
          "coords":[
             "652",
@@ -614,7 +614,7 @@
          ]
       },
       {
-         "name":"Romania",
+         "name":" رومانی",
          "shape":"poly",
          "coords":[
             "633",
@@ -628,7 +628,7 @@
          ]
       },
       {
-         "name":"Greece",
+         "name":" یونان",
          "shape":"poly",
          "coords":[
             "625",
@@ -642,7 +642,7 @@
          ]
       },
       {
-         "name":"Bulgaria",
+         "name":" بلغارستان",
          "shape":"rect",
          "coords":[
             "635",
@@ -652,7 +652,7 @@
          ]
       },
       {
-         "name":"Armenia",
+         "name":" ارمنستان",
          "shape":"rect",
          "coords":[
             "657",
@@ -662,7 +662,7 @@
          ]
       },
       {
-         "name":"Azerbaijan",
+         "name":" آذربایجان",
          "shape":"poly",
          "coords":[
             "704",
@@ -676,7 +676,7 @@
          ]
       },
       {
-         "name":"Georgia",
+         "name":" گرجستان",
          "shape":"poly",
          "coords":[
             "688",
@@ -694,7 +694,7 @@
          ]
       },
       {
-         "name":"Turkey",
+         "name":" ترکیه",
          "shape":"rect",
          "coords":[
             "647",
@@ -704,7 +704,7 @@
          ]
       },
       {
-         "name":"Cyprus",
+         "name":" قبرس",
          "shape":"rect",
          "coords":[
             "652",
@@ -714,7 +714,7 @@
          ]
       },
       {
-         "name":"Lebanon",
+         "name":" لبنان",
          "shape":"rect",
          "coords":[
             "639",
@@ -724,7 +724,7 @@
          ]
       },
       {
-         "name":"Jordan",
+         "name":" اردن",
          "shape":"poly",
          "coords":[
             "680",
@@ -738,7 +738,7 @@
          ]
       },
       {
-         "name":"Syria",
+         "name":" سوریه",
          "shape":"poly",
          "coords":[
             "683",
@@ -752,7 +752,7 @@
          ]
       },
       {
-         "name":"Iraq",
+         "name":" عراق",
          "shape":"poly",
          "coords":[
             "692",
@@ -766,7 +766,7 @@
          ]
       },
       {
-         "name":"Israel",
+         "name":" اسرائیل",
          "shape":"rect",
          "coords":[
             "645",
@@ -776,7 +776,7 @@
          ]
       },
       {
-         "name":"Saudi Arabia",
+         "name":" عربستان سعودی",
          "shape":"poly",
          "coords":[
             "683",
@@ -790,7 +790,7 @@
          ]
       },
       {
-         "name":"United Arab Emirates",
+         "name":" امارات متحده عربی",
          "shape":"poly",
          "coords":[
             "710",
@@ -804,7 +804,7 @@
          ]
       },
       {
-         "name":"Qatar",
+         "name":" قطر",
          "shape":"poly",
          "coords":[
             "729",
@@ -816,7 +816,7 @@
          ]
       },
       {
-         "name":"Kuwait",
+         "name":" کویت",
          "shape":"poly",
          "coords":[
             "717",
@@ -830,7 +830,7 @@
          ]
       },
       {
-         "name":"Iran",
+         "name":" ایران",
          "shape":"rect",
          "coords":[
             "718",
@@ -840,7 +840,7 @@
          ]
       },
       {
-         "name":"Yemen",
+         "name":" یمن",
          "shape":"poly",
          "coords":[
             "704",
@@ -854,7 +854,7 @@
          ]
       },
       {
-         "name":"Oman",
+         "name":" عمان",
          "shape":"poly",
          "coords":[
             "735",
@@ -868,7 +868,7 @@
          ]
       },
       {
-         "name":"Turkmenistan",
+         "name":" ترکمنستان",
          "shape":"poly",
          "coords":[
             "754",
@@ -884,7 +884,7 @@
          ]
       },
       {
-         "name":"Uzbekistan",
+         "name":" ازبکستان",
          "shape":"poly",
          "coords":[
             "753",
@@ -898,7 +898,7 @@
          ]
       },
       {
-         "name":"Afghanistan",
+         "name":" افغانستان",
          "shape":"poly",
          "coords":[
             "763",
@@ -912,7 +912,7 @@
          ]
       },
       {
-         "name":"Pakistan",
+         "name":" پاکستان",
          "shape":"poly",
          "coords":[
             "759",
@@ -926,7 +926,7 @@
          ]
       },
       {
-         "name":"Kyrgyzstan",
+         "name":" قرقیزستان",
          "shape":"poly",
          "coords":[
             "794",
@@ -940,7 +940,7 @@
          ]
       },
       {
-         "name":"Tajikistan",
+         "name":"تاجیکستان",
          "shape":"poly",
          "coords":[
             "790",
@@ -954,7 +954,7 @@
          ]
       },
       {
-         "name":"Bhutan",
+         "name":" بوتان",
          "shape":"poly",
          "coords":[
             "842",
@@ -968,7 +968,7 @@
          ]
       },
       {
-         "name":"Bangladesh",
+         "name":" بنگلادش",
          "shape":"poly",
          "coords":[
             "856",
@@ -982,7 +982,7 @@
          ]
       },
       {
-         "name":"Nepal",
+         "name":" نپال",
          "shape":"poly",
          "coords":[
             "827",
@@ -1004,7 +1004,7 @@
          ]
       },
       {
-         "name":"India",
+         "name":" هند",
          "shape":"poly",
          "coords":[
             "815",
@@ -1018,7 +1018,7 @@
          ]
       },
       {
-         "name":"Sri Lanka",
+         "name":" سریلانکا",
          "shape":"rect",
          "coords":[
             "825",
@@ -1028,7 +1028,7 @@
          ]
       },
       {
-         "name":"Burma",
+         "name":" برمه",
          "shape":"rect",
          "coords":[
             "872",
@@ -1038,7 +1038,7 @@
          ]
       },
       {
-         "name":"Laos",
+         "name":" لائوس",
          "shape":"poly",
          "coords":[
             "891",
@@ -1052,7 +1052,7 @@
          ]
       },
       {
-         "name":"Thailand",
+         "name":" تایلند",
          "shape":"rect",
          "coords":[
             "887",
@@ -1062,7 +1062,7 @@
          ]
       },
       {
-         "name":"Cambodia",
+         "name":" کامبوج",
          "shape":"poly",
          "coords":[
             "920",
@@ -1080,7 +1080,7 @@
          ]
       },
       {
-         "name":"Vietnam",
+         "name":" ویتنام",
          "shape":"rect",
          "coords":[
             "912",
@@ -1090,7 +1090,7 @@
          ]
       },
       {
-         "name":"Taiwan",
+         "name":" تایوان",
          "shape":"rect",
          "coords":[
             "959",
@@ -1100,7 +1100,7 @@
          ]
       },
       {
-         "name":"Malaysia",
+         "name":" مالزی",
          "shape":"rect",
          "coords":[
             "897",
@@ -1110,7 +1110,7 @@
          ]
       },
       {
-         "name":"Philippines",
+         "name":" فیلیپین",
          "shape":"rect",
          "coords":[
             "961",
@@ -1120,7 +1120,7 @@
          ]
       },
       {
-         "name":"Indonesia",
+         "name":" اندونزی",
          "shape":"rect",
          "coords":[
             "887",
@@ -1130,7 +1130,7 @@
          ]
       },
       {
-         "name":"Timor-Leste",
+         "name":" تیمور-لسته",
          "shape":"rect",
          "coords":[
             "923",
@@ -1140,7 +1140,7 @@
          ]
       },
       {
-         "name":"Solomon Islands",
+         "name":" جزایر سلیمان",
          "shape":"rect",
          "coords":[
             "1085",
@@ -1150,7 +1150,7 @@
          ]
       },
       {
-         "name":"New Caledonia",
+         "name":" کالدونیای جدید",
          "shape":"rect",
          "coords":[
             "1070",
@@ -1160,7 +1160,7 @@
          ]
       },
       {
-         "name":"Papua New Guinea",
+         "name":" پاپوآ گینه نو",
          "shape":"poly",
          "coords":[
             "1032",
@@ -1178,7 +1178,7 @@
          ]
       },
       {
-         "name":"Fiji",
+         "name":" فیجی",
          "shape":"rect",
          "coords":[
             "1139",
@@ -1188,7 +1188,7 @@
          ]
       },
       {
-         "name":"Australia",
+         "name":" استرالیا",
          "shape":"rect",
          "coords":[
             "936",
@@ -1198,7 +1198,7 @@
          ]
       },
       {
-         "name":"New Zealand",
+         "name":"نیوزلند",
          "shape":"rect",
          "coords":[
             "1089",
@@ -1208,7 +1208,7 @@
          ]
       },
       {
-         "name":"Japan",
+         "name":" ژاپن",
          "shape":"rect",
          "coords":[
             "1019",
@@ -1218,7 +1218,7 @@
          ]
       },
       {
-         "name":"North Korea",
+         "name":" کره شمالی",
          "shape":"rect",
          "coords":[
             "976",
@@ -1228,7 +1228,7 @@
          ]
       },
       {
-         "name":"South Korea",
+         "name":" کره جنوبی",
          "shape":"rect",
          "coords":[
             "977",
@@ -1238,7 +1238,7 @@
          ]
       },
       {
-         "name":"Mongolia",
+         "name":" مغولستان",
          "shape":"rect",
          "coords":[
             "863",
@@ -1248,7 +1248,7 @@
          ]
       },
       {
-         "name":"China",
+         "name":" چین",
          "shape":"poly",
          "coords":[
             "882",
@@ -1262,7 +1262,7 @@
          ]
       },
       {
-         "name":"Kazakhstan",
+         "name":" قزاقستان",
          "shape":"rect",
          "coords":[
             "726",
@@ -1272,7 +1272,7 @@
          ]
       },
       {
-         "name":"Russia",
+         "name":" روسیه",
          "shape":"rect",
          "coords":[
             "712",
@@ -1282,7 +1282,7 @@
          ]
       },
       {
-         "name":"Madagascar",
+         "name":" ماداگاسکار",
          "shape":"rect",
          "coords":[
             "705",
@@ -1292,7 +1292,7 @@
          ]
       },
       {
-         "name":"Western Sahara",
+         "name":" صحرای غربی",
          "shape":"rect",
          "coords":[
             "464",
@@ -1302,7 +1302,7 @@
          ]
       },
       {
-         "name":"Senegal",
+         "name":" سنگال",
          "shape":"rect",
          "coords":[
             "459",
@@ -1312,7 +1312,7 @@
          ]
       },
       {
-         "name":"The Gambia",
+         "name":" گامبیا",
          "shape":"rect",
          "coords":[
             "438",
@@ -1322,7 +1322,7 @@
          ]
       },
       {
-         "name":"Guinea-Bissau",
+         "name":" گینه بیسائو",
          "shape":"rect",
          "coords":[
             "427",
@@ -1332,7 +1332,7 @@
          ]
       },
       {
-         "name":"Guinea",
+         "name":" گینه",
          "shape":"rect",
          "coords":[
             "465",
@@ -1342,7 +1342,7 @@
          ]
       },
       {
-         "name":"Sierra Leone",
+         "name":" سیرالئون",
          "shape":"rect",
          "coords":[
             "445",
@@ -1352,7 +1352,7 @@
          ]
       },
       {
-         "name":"Liberia",
+         "name":" لیبریا",
          "shape":"rect",
          "coords":[
             "481",
@@ -1362,7 +1362,7 @@
          ]
       },
       {
-         "name":"Cote d'Ivoire",
+         "name":" ساحل عاج",
          "shape":"rect",
          "coords":[
             "459",
@@ -1372,7 +1372,7 @@
          ]
       },
       {
-         "name":"Benin",
+         "name":" بنین",
          "shape":"rect",
          "coords":[
             "564",
@@ -1382,7 +1382,7 @@
          ]
       },
       {
-         "name":"Togo",
+         "name":" توگو",
          "shape":"rect",
          "coords":[
             "548",
@@ -1392,7 +1392,7 @@
          ]
       },
       {
-         "name":"Equatorial Guinea",
+         "name":" گوی استوایی ",
          "shape":"rect",
          "coords":[
             "514",
@@ -1402,7 +1402,7 @@
          ]
       },
       {
-         "name":"Gabon",
+         "name":" گابن",
          "shape":"rect",
          "coords":[
             "563",
@@ -1412,7 +1412,7 @@
          ]
       },
       {
-         "name":"Ghana",
+         "name":" غنا",
          "shape":"rect",
          "coords":[
             "527",
@@ -1422,7 +1422,7 @@
          ]
       },
       {
-         "name":"Djibouti",
+         "name":" جیبوتی",
          "shape":"rect",
          "coords":[
             "731",
@@ -1432,7 +1432,7 @@
          ]
       },
       {
-         "name":"Uganda",
+         "name":" اوگاندا",
          "shape":"rect",
          "coords":[
             "707",
@@ -1442,7 +1442,7 @@
          ]
       },
       {
-         "name":"Rwanda",
+         "name":" رواندا",
          "shape":"rect",
          "coords":[
             "702",
@@ -1452,7 +1452,7 @@
          ]
       },
       {
-         "name":"Burundi",
+         "name":" بروندی",
          "shape":"rect",
          "coords":[
             "697",
@@ -1462,7 +1462,7 @@
          ]
       },
       {
-         "name":"Malawi",
+         "name":" مالاوی",
          "shape":"rect",
          "coords":[
             "683",
@@ -1472,7 +1472,7 @@
          ]
       },
       {
-         "name":"Mozambique",
+         "name":" موزامبیک",
          "shape":"rect",
          "coords":[
             "675",
@@ -1482,7 +1482,7 @@
          ]
       },
       {
-         "name":"eSwatini",
+         "name":" اسواتینی",
          "shape":"rect",
          "coords":[
             "666",
@@ -1492,7 +1492,7 @@
          ]
       },
       {
-         "name":"Lesotho",
+         "name":" لسوتو",
          "shape":"rect",
          "coords":[
             "648",
@@ -1502,7 +1502,7 @@
          ]
       },
       {
-         "name":"Morocco",
+         "name":" مراکش",
          "shape":"poly",
          "coords":[
             "519",
@@ -1516,7 +1516,7 @@
          ]
       },
       {
-         "name":"Tunisia",
+         "name":" تونس",
          "shape":"poly",
          "coords":[
             "556",
@@ -1530,7 +1530,7 @@
          ]
       },
       {
-         "name":"Algeria",
+         "name":" الجزایر",
          "shape":"poly",
          "coords":[
             "533",
@@ -1546,7 +1546,7 @@
          ]
       },
       {
-         "name":"Libya",
+         "name":" لیبی",
          "shape":"poly",
          "coords":[
             "600",
@@ -1560,7 +1560,7 @@
          ]
       },
       {
-         "name":"Egypt",
+         "name":" مصر",
          "shape":"rect",
          "coords":[
             "644",
@@ -1570,7 +1570,7 @@
          ]
       },
       {
-         "name":"Eritrea",
+         "name":" اریتره",
          "shape":"rect",
          "coords":[
             "645",
@@ -1580,7 +1580,7 @@
          ]
       },
       {
-         "name":"Mauritania",
+         "name":" موریتانی",
          "shape":"poly",
          "coords":[
             "507",
@@ -1594,7 +1594,7 @@
          ]
       },
       {
-         "name":"Burkina Faso",
+         "name":" بورکینافاسو",
          "shape":"poly",
          "coords":[
             "521",
@@ -1608,7 +1608,7 @@
          ]
       },
       {
-         "name":"Mali",
+         "name":" مالی",
          "shape":"poly",
          "coords":[
             "542",
@@ -1622,7 +1622,7 @@
          ]
       },
       {
-         "name":"Niger",
+         "name":" نیجریه",
          "shape":"poly",
          "coords":[
             "578",
@@ -1638,7 +1638,7 @@
          ]
       },
       {
-         "name":"Nigeria",
+         "name":" نیجریا",
          "shape":"poly",
          "coords":[
             "576",
@@ -1652,7 +1652,7 @@
          ]
       },
       {
-         "name":"Chad",
+         "name":" چاد",
          "shape":"poly",
          "coords":[
             "615",
@@ -1666,7 +1666,7 @@
          ]
       },
       {
-         "name":"Cameroon",
+         "name":" کامرون",
          "shape":"poly",
          "coords":[
             "592",
@@ -1680,7 +1680,7 @@
          ]
       },
       {
-         "name":"Angola",
+         "name":" انگولا",
          "shape":"rect",
          "coords":[
             "602",
@@ -1690,7 +1690,7 @@
          ]
       },
       {
-         "name":"Sudan and South Sudan",
+         "name":" سودان جنوبی",
          "shape":"poly",
          "coords":[
             "641",
@@ -1704,7 +1704,7 @@
          ]
       },
       {
-         "name":"Ethiopia",
+         "name":" اتیوپی",
          "shape":"poly",
          "coords":[
             "682",
@@ -1718,7 +1718,7 @@
          ]
       },
       {
-         "name":"Somalia",
+         "name":" سومالی",
          "shape":"poly",
          "coords":[
             "697",
@@ -1732,7 +1732,7 @@
          ]
       },
       {
-         "name":"Central African Republic",
+         "name":" جمهوری آفریقای مرکزی",
          "shape":"poly",
          "coords":[
             "611",
@@ -1746,7 +1746,7 @@
          ]
       },
       {
-         "name":"Republic of the Congo",
+         "name":" جمهوری کنگو",
          "shape":"poly",
          "coords":[
             "598",
@@ -1760,7 +1760,7 @@
          ]
       },
       {
-         "name":"Democratic Republic of the Congo",
+         "name":" جمهوری دموکراتیک کنگو",
          "shape":"poly",
          "coords":[
             "626",
@@ -1774,7 +1774,7 @@
          ]
       },
       {
-         "name":"Tanzania",
+         "name":" تانزانیا",
          "shape":"poly",
          "coords":[
             "664",
@@ -1788,7 +1788,7 @@
          ]
       },
       {
-         "name":"Zambia",
+         "name":" زامبیا",
          "shape":"poly",
          "coords":[
             "637",
@@ -1802,7 +1802,7 @@
          ]
       },
       {
-         "name":"Kenya",
+         "name":" کنیا",
          "shape":"rect",
          "coords":[
             "675",
@@ -1812,7 +1812,7 @@
          ]
       },
       {
-         "name":"Namibia",
+         "name":" نامیبیا",
          "shape":"rect",
          "coords":[
             "599",
@@ -1822,7 +1822,7 @@
          ]
       },
       {
-         "name":"Botswana",
+         "name":" بوتسوانا",
          "shape":"poly",
          "coords":[
             "630",
@@ -1836,7 +1836,7 @@
          ]
       },
       {
-         "name":"Zimbabwe",
+         "name":" زیمباوه",
          "shape":"poly",
          "coords":[
             "645",
@@ -1850,7 +1850,7 @@
          ]
       },
       {
-         "name":"South Africa",
+         "name":" آفریقای جنوبی",
          "shape":"poly",
          "coords":[
             "618",
@@ -1864,7 +1864,7 @@
          ]
       },
       {
-         "name":"Samoa",
+         "name":" ساموآ",
          "shape":"rect",
          "coords":[
             "1175",
